@@ -1,1 +1,1 @@
-# hiber-teachersapp
+# A simple hibernate teachers project 
